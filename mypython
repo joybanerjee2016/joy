@@ -1,3 +1,5 @@
-def Joy:
+def Joy():
   print "This is my first project in Git"
+def New_Change():
+  print "This is version 2"
   
